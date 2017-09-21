@@ -6,6 +6,8 @@ API docs tend to be big, and there are many versions. Keeping them in a separate
 
 For now, it should include generated docs per release (even though it could be useful to be able to refer to master branch docs also).
 
+The GitHub repository for these published API docs is [cucumber/api.cucumber.io](https://github.com/cucumber/api.cucumber.io).
+
 The site is (currently) live at: https://hunter-ethel-13616.netlify.com/README.md
 
 
@@ -15,7 +17,7 @@ Javadocs for cucumber-jvm
 
 ### 2.0.0
 
-The javadocs are (currently) live at: https://hunter-ethel-13616.netlify.com/cucumber-jvm/2.0.0/javadoc/
+The Javadocs are (currently) live at: https://hunter-ethel-13616.netlify.com/cucumber-jvm/2.0.0/javadoc/
 
 You can find the source on [GitHub](/cucumber-jvm/2.0.0/javadoc/)
 
