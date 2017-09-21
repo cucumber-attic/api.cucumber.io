@@ -11,7 +11,7 @@ The site is (currently) live at: https://hunter-ethel-13616.netlify.com/README.m
 
 ## cucumber-jvm
 ### 2.0.0
-[Javadocs for cucumber-jvm v 2.0.0](https://hunter-ethel-13616.netlify.com/cucumber-jvm/2.0.0/javadoc/)
+[Javadocs for cucumber-jvm v 2.0.0](/cucumber-jvm/2.0.0/javadoc/)
 ### 1.2.5
 ### 1.2.4
 etc
